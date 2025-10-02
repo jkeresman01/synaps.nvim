@@ -1,0 +1,2 @@
+# synaps.nvim
+
